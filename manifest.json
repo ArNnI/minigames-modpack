@@ -21,14 +21,6 @@
       "kind": "mod"
     },
     {
-      "path": "mods/btd_mod-0.1.0-beta.jar",
-      "url": "https://github.com/ArNnI/minigames-modpack/releases/download/v1.0.0/mods__btd_mod-0.1.0-beta.jar",
-      "sha256": "2119acf15384986671d9f0d1c7c7eeea787848ff96c1eb00780757a298e3b9ca",
-      "size": 9294139,
-      "overwrite": "always",
-      "kind": "mod"
-    },
-    {
       "path": "mods/effortlessbuilding-4.2+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/DYtfQEYj/versions/YxnBXtLv/effortlessbuilding-4.2%2B1.21.1.jar",
       "sha256": "1fedbc3f6866541a96da24e75649ca5f9599b37e15a0b32a9c920ac3dbcf5f90",
@@ -45,26 +37,10 @@
       "kind": "mod"
     },
     {
-      "path": "mods/fishquest-0.1.0.jar",
-      "url": "https://github.com/ArNnI/minigames-modpack/releases/download/v1.0.0/mods__fishquest-0.1.0.jar",
-      "sha256": "e2e334ecac6848109d956b28961d50fa362376d1aec925927b6fc70f474b8e25",
-      "size": 20750314,
-      "overwrite": "always",
-      "kind": "mod"
-    },
-    {
       "path": "mods/geckolib-fabric-1.21.1-4.9.2.jar",
       "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/dnJdtm0u/geckolib-fabric-1.21.1-4.9.2.jar",
       "sha256": "eac4cf55e1cb99b22cb91ea87c774d2a670c1711a80f4aff50e6ad56b6c58e7e",
       "size": 660416,
-      "overwrite": "always",
-      "kind": "mod"
-    },
-    {
-      "path": "mods/hs_mod-0.3-beta.jar",
-      "url": "https://github.com/ArNnI/minigames-modpack/releases/download/v1.0.0/mods__hs_mod-0.3-beta.jar",
-      "sha256": "acc565a9222e4f8022e6671578d85f210ba126b7e6c8465d51623e1f82db0d50",
-      "size": 640505,
       "overwrite": "always",
       "kind": "mod"
     },
@@ -97,22 +73,6 @@
       "url": "https://github.com/ArNnI/minigames-modpack/releases/download/v1.0.0/mods__rossedit-0.1.0.jar",
       "sha256": "6b71dec49475a5f22d4fe195dffde587575c5f6e0fb9d379eade4ca8b8d2881d",
       "size": 1051791,
-      "overwrite": "always",
-      "kind": "mod"
-    },
-    {
-      "path": "mods/td-arena-3.1.0.jar",
-      "url": "https://github.com/ArNnI/minigames-modpack/releases/download/v1.0.0/mods__td-arena-3.1.0.jar",
-      "sha256": "90ab4d60229d59bf67a214768abdafe282354678ef0815ccbf9b550b59f38c1b",
-      "size": 124411,
-      "overwrite": "always",
-      "kind": "mod"
-    },
-    {
-      "path": "mods/td_mod-0.1.2-beta.jar",
-      "url": "https://github.com/ArNnI/minigames-modpack/releases/download/v1.0.0/mods__td_mod-0.1.2-beta.jar",
-      "sha256": "83c7a9a502da95abd35725096321f8552b33718db13d0aab4f5edaf89078fb8f",
-      "size": 2516349,
       "overwrite": "always",
       "kind": "mod"
     },
